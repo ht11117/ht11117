@@ -1,4 +1,6 @@
-## Hi there 👋
+## Trịnh Thị Lan Anh - UNETI
+
+# University: Trường Đại Học Kinh Tế - Kỹ Thuật Công Nghiệp
 
 <!--
 **ht11117/ht11117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
